@@ -1,0 +1,155 @@
+body {
+    padding-top: 35px;
+    padding-left: 55px;
+    padding-right: 55px;
+    margin: 0;
+    font-family: 'Tahoma';
+}
+
+.resume{
+    display: flex;
+    flex-direction: column;
+}
+
+.head{
+    display: flex;
+    margin: auto;
+    font-size: 2em
+}
+
+.name{
+    font-weight: bold;
+    color: #0070C0;
+    margin-right: 25px;
+}
+
+.nameHR{
+    width: 50px;
+    height: 3px;
+    background-color: grey;
+    margin-top: 25px;
+}
+
+.mock{
+    color: grey;
+    margin-left: 25px;
+}
+
+.address{
+    margin: auto;
+    display: flex;
+    font-size: 35px;
+    color: rgb(128, 128, 128);
+}
+
+.obj{
+    margin-top: 2cm;
+}
+
+.contact{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.perCon{
+    display: flex;
+    gap: 35px;
+}
+
+.phone{
+    display: flex;
+    color: grey;
+    gap:10px;
+    align-items: baseline;
+}
+
+.fa-circle{
+    font-size: 10px;
+    margin-top: 10px;
+}
+
+.aa{
+    text-decoration: none;
+    color: grey;
+}
+
+.edu{
+    margin-top: 45px;
+}
+
+.e{
+    font-size: 35px;
+    font-weight: bold;
+    color:#0070C0;
+}
+
+.regularHR{
+    background-color: #0070C0;
+    height: 1px;
+    border-color: #0070C0;
+    margin-top: -2px;
+}
+
+.uniNameAdd{
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.degYr{
+    display: flex;
+    justify-content: space-between;
+    font-style: italic;
+}
+
+.progSkill{
+    display: flex;
+    font-size: 22px;
+}
+
+.prog{
+    font-weight: bold;
+    margin-right: 15px;
+}
+
+.projectDes{
+    display: flex;
+    flex-direction: column;
+    font-size: 21px;
+}
+
+.acv{
+    margin-top: 2cm;
+}
+
+.projectTitle{
+    display: flex;
+}
+
+.title{
+    font-weight: bold;
+    margin-right: 15px;
+}
+
+.CertDes{
+    display: flex;
+    flex-direction: column;
+    font-size: 21px;
+}
+
+.certDes{
+    display: flex;
+}
+
+.certname{
+    font-weight: bold;
+    margin-right: 15px;
+}
+
+.aaa{
+    text-decoration: none;
+    color: black;
+}
