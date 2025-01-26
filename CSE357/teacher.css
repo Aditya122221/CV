@@ -156,6 +156,7 @@ body {
 
 .recom{
     margin-top: 30px;
+    text-align: justify;
 }
 
 .recomDes{
@@ -165,6 +166,10 @@ body {
 
 .recomTitle{
     font-weight: bold;
+}
+
+.titlee{
+    font-weight: normal;
 }
 
 .rrr{
