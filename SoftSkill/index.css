@@ -64,7 +64,7 @@
 }
 
 .fa-solid{
-    font-size: 23px;
+    font-size: 13px;
 }
 
 .ac{
@@ -94,7 +94,6 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding-right: 50px;
 }
 
 .bf{
@@ -128,7 +127,6 @@
 
 .bj{
     margin-left: 15px;
-    font-weight: bold;
 }
 
 .bk{
@@ -153,7 +151,6 @@
 .cc{
     display: flex;
     justify-content: space-between;
-    padding-right: 50px;
 }
 
 .cd{
@@ -170,12 +167,11 @@
 
 .pul{
     margin-top: -5px;
-    list-style: none;
-    margin-left: -40px;
 }
 
 .cg{
     margin-top: -20px;
+    margin-left: 20px;
 }
 
 .ch{
@@ -189,7 +185,6 @@
 .de{
     display: flex;
     justify-content: space-between;
-    padding-right: 50px;
 }
 
 .ea{
@@ -240,4 +235,8 @@
 
 #sec{
     margin-top: 15px;
+}
+
+#ff{
+    margin-left: 15px;
 }
