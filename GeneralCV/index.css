@@ -25,6 +25,11 @@
     justify-content: space-between;
 }
 
+.regularHR{
+    height: 1px;
+    background-color: black;
+}
+
 .linkdin{
     display: flex;
 }
