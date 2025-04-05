@@ -14,7 +14,7 @@ body {
 .head{
     display: flex;
     margin: auto;
-    font-size: 2em
+    font-size: 32.585px;
 }
 
 .name{
@@ -38,7 +38,7 @@ body {
 .address{
     margin: auto;
     display: flex;
-    font-size: 35px;
+    font-size: 14.63px;
     color: rgb(128, 128, 128);
 }
 
@@ -50,6 +50,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    font-size: 14.63px;;
 }
 
 .perCon{
@@ -66,7 +67,7 @@ body {
 
 .fa-circle{
     font-size: 10px;
-    margin-top: 10px;
+    margin-top: 14.63px;
 }
 
 .aa{
@@ -79,7 +80,7 @@ body {
 }
 
 .e{
-    font-size: 35px;
+    font-size: 18.62px;
     font-weight: bold;
     color:#0070C0;
 }
@@ -91,23 +92,38 @@ body {
     margin-top: -2px;
 }
 
+.oobb{
+    font-size: 14.63px;
+}
+
+.eedd{
+    font-size: 14.63px;
+}
+
 .uniNameAdd{
     margin-top: 15px;
     display: flex;
     justify-content: space-between;
     font-weight: bold;
-    font-size: 20px;
 }
 
 .degYr{
     display: flex;
     justify-content: space-between;
     font-style: italic;
+    font-family: 'Arial';
+}
+
+.courses{
+    font-size: 13.3px;
+}
+
+.skills{
+    font-size: 14.63px;
 }
 
 .progSkill{
     display: flex;
-    font-size: 22px;
 }
 
 .prog{
@@ -118,11 +134,16 @@ body {
 .projectDes{
     display: flex;
     flex-direction: column;
-    font-size: 21px;
+    font-size: 14.63px;
+}
+
+.dest{
+    font-family: 'Arial';
+    font-style: italic;
 }
 
 .acv{
-    margin-top: 2cm;
+    margin-top: 1.5cm;
 }
 
 .projectTitle{
@@ -137,7 +158,7 @@ body {
 .CertDes{
     display: flex;
     flex-direction: column;
-    font-size: 21px;
+    font-size: 14.63px;
 }
 
 .certDes{
